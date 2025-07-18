@@ -1,6 +1,6 @@
 # Neural Memory Ordinary Differential Equation Networks: Formulation, Mechanisms, and Applications (AAAI 2025)
 
-This is the source code for the AAAI 2025 paper.
+This is the source code for the IJNS paper.
 
 # Evaluating Long-Term Memory
 The source code is under `Image Classification` folder.
