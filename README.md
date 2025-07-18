@@ -1,4 +1,4 @@
-# Neural Memory Ordinary Differential Equation Networks: Formulation, Mechanisms, and Applications (AAAI 2025)
+# Sequence Learning by using nmODE
 
 This is the source code for the IJNS paper.
 
