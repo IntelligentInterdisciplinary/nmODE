@@ -1,6 +1,6 @@
 # Sequence Learning by using nmODE
 
-This is the source code for the IJNS paper.
+This is the source code for the KBS paper.
 
 # Evaluating Long-Term Memory
 The source code is under `Image Classification` folder.
