@@ -17,6 +17,17 @@ For comparison, the source code is under `Image Classification/compare` folder.
 * *Metrics*: ACC
 * *Data sets*: CIFAR-10, CUB-2011-200
 
+# Analyzing Computational Efficiency
+The source code is under `Speed` folder.
+
+* *Models*: parallel nmODE, non-parallel nmODE
+* *Metrics*: forward and backward speed (s)
+
+For evaluate, run:
+```
+python speed.py
+```
+
 # Assessing Extended Sequences Modeling
 The source code is under `LSTF` folder.
 
@@ -27,15 +38,4 @@ The source code is under `LSTF` folder.
 For comparison, run:
 ```
 python main.py
-```
-
-# Analyzing Computational Efficiency
-The source code is under `Speed` folder.
-
-* *Models*: parallel nmODE, non-parallel nmODE
-* *Metrics*: forward and backward speed (s)
-
-For evaluate, run:
-```
-python speed.py
 ```
